@@ -177,18 +177,18 @@ Descreva o principal aprendizado sobre gerenciamento de memória que vocês tive
 
 ## 5. Vídeo de Demonstração
 
-**Link do vídeo:** [Insira aqui o link para YouTube, Google Drive, etc.]
+**Link do vídeo:** https://youtu.be/rdH8uuAMH1I
 
 ### Conteúdo do vídeo:
 
 Confirme que o vídeo contém:
 
-- [ ] Demonstração da compilação do projeto
-- [ ] Execução do simulador com algoritmo FIFO
-- [ ] Execução do simulador com algoritmo Clock
-- [ ] Explicação da saída produzida
-- [ ] Comparação dos resultados FIFO vs Clock
-- [ ] Breve explicação de uma decisão de design importante
+- [X] Demonstração da compilação do projeto
+- [X] Execução do simulador com algoritmo FIFO
+- [X] Execução do simulador com algoritmo Clock
+- [X] Explicação da saída produzida
+- [X] Comparação dos resultados FIFO vs Clock
+- [X] Breve explicação de uma decisão de design importante
 
 ---
 
@@ -203,8 +203,8 @@ Antes de submeter, verifique:
 - [X] Testamos com os casos fornecidos em tests/
 - [ ] Todas as seções deste relatório foram preenchidas
 - [X] Análise comparativa foi realizada com dados reais
-- [ ] Vídeo de demonstração foi gravado e link está funcionando
-- [ ] Todos os integrantes participaram e concordam com a submissão
+- [X] Vídeo de demonstração foi gravado e link está funcionando
+- [X] Todos os integrantes participaram e concordam com a submissão
 
 ---
 ## Referências
