@@ -2,14 +2,13 @@
 
 **Disciplina:** Sistemas Operacionais
 **Professor:** Lucas Figueiredo
-**Data:**
+**Data:**  24/11/2025
 
 ## Integrantes do Grupo
 
-- Nome Completo - Matrícula
-- Nome Completo - Matrícula
-- Nome Completo - Matrícula
-- Nome Completo - Matrícula
+Gabriel Teixeira Bolonha - 10426937
+Vitor dos Santos Souza - 10402809
+
 
 ---
 
@@ -164,12 +163,15 @@ Para um sistema real, o Clock é preferível, pois ele combina simplicidade com 
 ### 4.1 Maior Desafio Técnico
 
 Descreva o maior desafio técnico que seu grupo enfrentou durante a implementação:
+O maior desafio técnico foi a implementação correta da lógica do ponteiro circular no algoritmo Clock. O problema residiu em garantir que o ponteiro avançasse consistentemente (usando o módulo) e que a "segunda chance" fosse aplicada corretamente (R=1 zera e a busca continua). 
 
 
 
 ### 4.2 Principal Aprendizado
 
 Descreva o principal aprendizado sobre gerenciamento de memória que vocês tiveram com este projeto:
+
+O principal aprendizado foi a clareza sobre o Trade-off entre a simplicidade do FIFO e a eficácia do Clock. Entendemos como o R-bit permite ao Sistema Operacional inferir o comportamento do programa (Localidade Temporal), otimizando o desempenho e reduzindo as operações de I/O (que são custosas) de forma superior ao FIFO.
 
 
 
@@ -201,7 +203,7 @@ Antes de submeter, verifique:
 - [X] Simulador funciona corretamente com Clock
 - [X] Formato de saída segue EXATAMENTE a especificação do ENUNCIADO.md
 - [X] Testamos com os casos fornecidos em tests/
-- [ ] Todas as seções deste relatório foram preenchidas
+- [X] Todas as seções deste relatório foram preenchidas
 - [X] Análise comparativa foi realizada com dados reais
 - [X] Vídeo de demonstração foi gravado e link está funcionando
 - [X] Todos os integrantes participaram e concordam com a submissão
